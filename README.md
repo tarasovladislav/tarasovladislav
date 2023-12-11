@@ -39,7 +39,7 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
-![snake](https://raw.githubusercontent.com/tarasovladislav/tarasovladislav/dcb177ed15d2e036d22b5f9f3f2752a0aca25690/github-user-contribution.svg)
+![snake](https://raw.githubusercontent.com/tarasovladislav/tarasovladislav/fd2c332fef1c85176b2cb7a32cac3ca41acec587/github-user-contribution.svg)
 
 <!--
 **tarasovladislav/tarasovladislav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
